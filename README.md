@@ -13,7 +13,15 @@ PC 与 Android 版本的源码均已公开：
 | PC（Windows） | [HyperHLE_ds_compat-pc](https://github.com/SomJsA/HyperHLE_ds_compat-pc) | [PC Releases](https://github.com/SomJsA/HyperHLE_ds_compat-pc/releases) |
 | Android（安卓） | [HyperHLE_ds_compat-android](https://github.com/SomJsA/HyperHLE_ds_compat-android) | [Android Releases](https://github.com/SomJsA/HyperHLE_ds_compat-android/releases) |
 
-源码、构建说明和对应平台的最新发布版本请查看上述仓库。本仓库继续作为统一的 Issue 反馈入口，不提供游戏资源。
+源码、构建说明和对应平台的最新发布版本请查看上述仓库。本仓库作为统一的 Issue 反馈入口；安装包见上述 Releases，PC 安装所需的 marker 文件可从下方 MEGA 网盘获取。
+
+### MEGA 网盘 / MEGA mirror
+
+[MEGA 下载（内含 marker 文件） / MEGA download (includes marker)](https://mega.nz/folder/J6pDTLxK#SNPFjStjTsbSzP0d1FWQ2Q)
+
+网盘内包含 PC 安装所需的 **marker 文件**，已有 marker 可继续沿用。
+
+The MEGA download includes the **marker file** required for PC installation. Existing markers can still be used.
 
 ## Issue 反馈
 
